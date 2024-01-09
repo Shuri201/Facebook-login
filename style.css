@@ -1,0 +1,141 @@
+*{
+   margin: 0px 0px 0px 0px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+#header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(44, 65, 207);
+    height: 110px;
+    color: white;
+}
+
+.facebook{
+    padding: 30px 580px 0px 0px;
+}
+
+.Password {
+    margin-top: 8px ;
+    height:20px ;
+}
+
+.email {
+    margin-top: 8px ;
+    height:20px ;
+}
+
+#email{
+    margin-top: 20px;
+}
+
+#pass{
+    margin-top: 20px;
+}
+
+.login{
+    margin-top: 45px;
+    height: 20px;
+}
+
+/* MAIN */
+
+#nav1{
+    height:520px;
+    width: 780px ;
+}
+
+#nav2{
+    position: absolute;
+    top: 110px;
+    width: 620px;
+    height: 520px;
+    margin-left: 780px;
+}
+
+.p1{
+    float: right;
+    padding-right: 275px;
+    padding-top: 45px;
+}
+
+.img1{
+    padding-left: 60px;
+    padding-top: 20px;
+ }
+
+ .p2{
+    float: right;
+    padding-right: 300px;
+    padding-top: 45px;
+}
+
+.img2{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+ .p3{
+    float: right;
+    padding-right: 220px;
+    padding-top: 45px;
+}
+
+.img3{
+    padding-left: 60px;
+    padding-top: 20px;
+ }
+
+/* NAV2 */
+
+.f-name{
+    height: 25px;
+    width: 220px;
+    margin: 0px 2px 20px 20px;
+}
+
+.l-name{
+    height: 25px;
+    width: 220px;
+}
+
+.mobile{
+    height: 25px;
+    width: 450px;
+    margin: 0px 20px 20px 20px;
+}
+
+.new-password{
+    height: 25px;
+    width: 450px;
+    margin: 0px 20px 20px 20px;
+}
+
+.signup{
+    margin: 10px;
+}
+
+.free{
+    margin: 10px;
+}
+
+.birthday{
+    margin: 10px;
+}
+
+.date{
+    height: 25px;
+    width: 220px;
+}
+
+.sign{
+    height: 25px ;
+    width: 200px;
+    background-color: rgb(25, 113, 25);
+    border-radius: 6px;
+    margin-top: 6px;
+    color: white;
+}
